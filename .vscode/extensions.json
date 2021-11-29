@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "johnsoncodehk.volar",
+    "sdras.vue-vscode-extensionpack",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode"
+  ]
+}
